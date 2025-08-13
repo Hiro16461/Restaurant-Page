@@ -25,3 +25,7 @@ nav button {
 #content div img{
   width: 500px;
 }
+
+.hide {
+  display: none;
+}
